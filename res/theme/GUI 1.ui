@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<component type="Form" name="GUI 1" cloudDestinationProperty="GUI 1" >
+  <component type="Button" name="Button" cloudDestinationProperty="Button" text="Button" >
+  </component>
+  <component type="Container" name="Container" cloudDestinationProperty="Container" >
+    <component type="Label" name="Label" cloudDestinationProperty="Label" text="Label" >
+    </component>
+    <component type="Label" name="Label1" cloudDestinationProperty="Label1" text="Label" >
+    </component>
+  </component>
+</component>
